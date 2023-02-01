@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/akhileshkumar12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhileshkumar12" height="30" width="40" /></a>
 <a href="https://fb.com/akhileshkumar12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akhileshkumarji.11" height="30" width="40" /></a>
 <a href="https://instagram.com/sunnyji_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunnyji_12" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sunnyji_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akhilesh kumar (@sunnyji_12)" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@sunnyji_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akhilesh kumar (@sunnyji_12)" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sunnyji_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sunnyji_12" height="30" width="40" /></a>
 </p>
 
